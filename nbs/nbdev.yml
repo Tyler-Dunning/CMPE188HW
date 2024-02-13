@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "HW0"
+  site-url: "https://tyler.github.io/HW0"
+  description: "desc"
+  repo-branch: main
+  repo-url: "https://github.com/tyler/HW0"
