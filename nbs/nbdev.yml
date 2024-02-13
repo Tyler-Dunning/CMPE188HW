@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "HW0"
-  site-url: "https://tyler.github.io/HW0"
+  title: "CMPE188HW"
+  site-url: "https://Tyler-Dunning.github.io/CMPE188HW"
   description: "desc"
   repo-branch: main
-  repo-url: "https://github.com/tyler/HW0"
+  repo-url: "https://github.com/Tyler-Dunning/CMPE188HW"
